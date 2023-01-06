@@ -1,7 +1,7 @@
 ![Banner](link-interno)
 <a name="readme-top"></a>
-<h1 align="center">Read template</h1>
-<p align="center">Escrever uma breve descrição</p>
+<h1 align="center">readme template</h1>
+<p align="center">breve descrição</p>
 
 
 <div align="center">
@@ -14,15 +14,15 @@
 <h4 align="center"> 
 	🚧 under development...  🚧
 </h4>
-<h2 align="center">Summary</h2>
+<h2 align="center">summary</h2>
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+ <a href="#features">features</a> •
+ <a href="#technologies">technologies</a> • 
+ <a href="#demo">demo</a> • 
+ <a href="#how-to-use">how to use</a> • 
+ <a href="#how-to-contribute">how to contribute</a> •
+ <a href="#how to contribute">contributors</a>
+ </p>
 
 ## features
 
@@ -32,7 +32,7 @@
 
 - [ ] `celebrate`
 
-## tecnologies
+## technologies
 
 
 
@@ -45,34 +45,33 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## how to use
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+## how to use <a name="how-to-use"></a>
+before you start, you will need to have the following tools installed on your machine:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
-### 🎲 Rodando o Back End (servidor)
+besides this, it is good to have an editor to work with the code, such as [VSCode](https://code.visualstudio.com/)
 
 ```bash
-# Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+# Clone this repository
+$ git clone <https://github.com/danielgaioso/my-readme-template>
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+# Access the project folder in terminal/cmd
+$ cd my-readme-template
 
-# Vá para a pasta server
+# Go to the server folder
 $ cd server
 
-# Instale as dependências
+# Install the dependencies
 $ npm install
 
-# Execute a aplicação em modo de desenvolvimento
+# Run the application in development mode
 $ npm run dev:server
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# The server will start on port:3333 - access <http://localhost:3333>
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## how to contribute
+## how to contribute <a name="how-to-contribute"></a>
+- Want to contribute to the project? [Check the step-by-step](./CONTRIBUTING.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
