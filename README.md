@@ -1,5 +1,5 @@
 ![Banner](link-interno)
-
+<a name="readme-top"></a>
 <h1 align="center">Read template</h1>
 <p align="center">Escrever uma breve descrição</p>
 
@@ -26,11 +26,11 @@
 
 ## features
 
-[x] `think`
+- [x] `think`
 
-[ ] `execute`
+- [ ] `execute`
 
-[ ] `celebrate`
+- [ ] `celebrate`
 
 ## tecnologies
 
@@ -45,14 +45,31 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## requirements
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## how to use
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
+### 🎲 Rodando o Back End (servidor)
 
+```bash
+# Clone este repositório
+$ git clone <https://github.com/tgmarinho/nlw1>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlw1
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## how to contribute
