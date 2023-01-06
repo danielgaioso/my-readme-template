@@ -1,7 +1,7 @@
 ![Banner](link-interno)
 <a name="readme-top"></a>
 <h1 align="center">readme template</h1>
-<p align="center">breve descrição</p>
+<p align="center">my readme template for speeding up when I readme my projects | feel free to use it!</p>
 
 
 <div align="center">
